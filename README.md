@@ -1,5 +1,8 @@
 # Welcome to CS5340 Proejct Page
-## This site is hosted by Sicheng Hao (E-mail: [hao.sic@husky.neu.edu](hao.sic@husky.neu.edu))
+## This site is hosted by Sicheng Hao 
+## (E-mail: [hao.sic@husky.neu.edu](hao.sic@husky.neu.edu))
+
+
 
 
 You can use the [editor on GitHub](https://github.com/sichenghao1992/CS5340_Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
