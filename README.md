@@ -3,41 +3,27 @@
 ## (E-mail: [hao.sic@husky.neu.edu](hao.sic@husky.neu.edu))
 
 ### Personal Background: 
-My name is Sicheng (Si-Cheng). I am a second year Master Student in Data Science program at CCIS. I have a background in Statistics and Machine Learning, my main programming lauguage is R. 
+My name is Sicheng (Si-Cheng). I am a second year Master Student in Data Science program at CCIS. I have a background in Statistics and Machine Learning, my main programming lauguage is R. Here is my [personal website](https://sichenghao1992.github.io/)
+
+### Project #1
+
+The first project I have in mind is a ICU Information Dashboard
 
 
-You can use the [editor on GitHub](https://github.com/sichenghao1992/CS5340_Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+For developers,[editor on GitHub](https://github.com/sichenghao1992/CS5340_Project/edit/master/README.md)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sichenghao1992/CS5340_Project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
