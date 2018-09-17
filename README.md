@@ -7,11 +7,12 @@ My name is Sicheng (Si-Cheng). I am a second year Master Student in Data Science
 
 ### Project #1
 
-The first project I have in mind is a ICU Information Dashboard. 
+Intensive care unit(ICU) is a department in the hospital to treat patients with life-threatening disease or injury. It is also home to some of the most sophisticated patient technology within hospitals, such as vital sign monitors and mechanical ventilators. Data generated in the process are often precious and contain meaningful information. How to integrate data and help doctors make fast and accurate decisions is the research goal of many clinicians and data scientists. 
 
-Intensive care unit(ICU) is a department in hospital to treat patient with life-threatening disease or injury. It is also home to some of the most sophisticated patient technology within hospitals, such as vital sign monitors and mechanical ventilators. Combining with patietnts healthrecord(EHR)
+The goal of this project is to build an interface based on current ICU data from [MIMIC](https://mimic.physionet.org/) which is a database developed by MIT Lab for Computational Physiology, to help doctors extract information from data and make the critical decision faster. 
 
-![Shiny-Dashboard](https://drive.google.com/drive/u/0/folders/1uNQVe74xy2-1CKr2x5WhehA6M6JqUf7w)
+The interface I am planning to use is Shiny. This is an R based visualization tool that integrates R with javascript and HTML. A template of this project:
+![Shiny-Dashboard](https://drive.google.com/open?id=1IKkoFqZ0PBRmvXiMYE7pkgdCauIDstGf)
 
 
 
