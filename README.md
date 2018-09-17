@@ -12,7 +12,9 @@ Intensive care unit(ICU) is a department in the hospital to treat patients with 
 The goal of this project is to build an interface based on current ICU data from [MIMIC](https://mimic.physionet.org/) which is a database developed by MIT Lab for Computational Physiology, to help doctors extract information from data and make the critical decision faster. 
 
 The interface I am planning to use is Shiny. This is an R based visualization tool that integrates R with javascript and HTML. A template of this project:
-![Shiny-Dashboard](https://drive.google.com/file/d/1IKkoFqZ0PBRmvXiMYE7pkgdCauIDstGf/view?usp=sharing)
+
+![Shiny Dashboar
+d](https://drive.google.com/file/d/1IKkoFqZ0PBRmvXiMYE7pkgdCauIDstGf/view?usp=sharing)
 
 
 MSstats and MSstatsTMT are two R packages that our lab, they are widely used in the area of proteomics. The main function of these two packages is protein quantification. 
