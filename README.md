@@ -2,6 +2,8 @@
 ## This site is hosted by Sicheng Hao 
 ## (E-mail: [hao.sic@husky.neu.edu](hao.sic@husky.neu.edu))
 
+Note: if the pictures does not work, please click "View on Github" in the upper right corner. 
+
 ### Personal Background: 
 My name is Sicheng (Si-Cheng). I am a second year Master Student in Data Science program at CCIS. I have a background in Statistics and Machine Learning, my main programming lauguage is R. Here is my [personal website](https://sichenghao1992.github.io/)
 
