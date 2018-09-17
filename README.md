@@ -13,8 +13,7 @@ The goal of this project is to build an interface based on current ICU data from
 
 The interface I am planning to use is Shiny. This is an R based visualization tool that integrates R with javascript and HTML. A template of this project:
 
-![Shiny Dashboar
-d](https://drive.google.com/file/d/1IKkoFqZ0PBRmvXiMYE7pkgdCauIDstGf/view?usp=sharing)
+![Shiny Dashboard](https://github.com/sichenghao1992/CS5340_Project/blob/master/Pics/Screen%20Shot%202018-09-16%20at%209.36.03%20PM.png)
 
 
 MSstats and MSstatsTMT are two R packages that our lab, they are widely used in the area of proteomics. The main function of these two packages is protein quantification. 
