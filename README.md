@@ -18,7 +18,9 @@ The interface I am planning to use is Shiny. This is an R based visualization to
 
 MSstats and MSstatsTMT are two R packages that our lab, they are widely used in the area of proteomics. The main function of these two packages is protein quantification. 
 
-The main users of this two packages do not have a lot R experience and statistical analysis. To make them use these two packages easier, I proposed a project plan to build a UI interface based on these two packages. 
+The main users of this two packages do not have a lot R experience and statistical analysis. To make them use these two packages easier, I proposed a project plan to build a UI interface based on these two packages. The interface will not require any programming experience and will automatically generate PDF or HTML report. 
+![MSstats]()
+![MSstatsTMT]()
 
 
 
